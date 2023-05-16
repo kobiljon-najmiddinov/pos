@@ -1,1 +1,1 @@
-# intern-pos
+# Point of Sale (POS) design.
