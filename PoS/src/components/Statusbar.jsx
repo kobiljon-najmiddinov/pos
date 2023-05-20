@@ -3,8 +3,8 @@ console.log(symbols);
 
 function Statusbar() {
     return (
-        <div className="status-bar ">
-            <div className=" flex items-center justify-between py-2 px-2">
+        <div className="status-bar">
+            <div className=" flex items-center justify-between py-2 px-4">
                 <span className=" font-['SF Pro Text'] font-bold text-base">
                     9:41
                 </span>

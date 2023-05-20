@@ -10,14 +10,9 @@ function App() {
       <div id='status-bar' className=''>
         <Statusbar />
       </div>
-      <div id='content'></div>
-      <Content />
-      <header>
-        <button>New Order</button>
-      </header>
-      <section id='categories'>
-        <div></div>
-      </section>
+      <div id='content'>
+        <Content />
+      </div>
     </>
   )
 }
